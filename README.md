@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pick</h1>
 <h3 align="center">I'm A Person Who codes random shit :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=15pp&label=Profile%20views&color=0e75b6&style=flat" alt="15pp" /> </p>
+![](https://komarev.com/ghpvc/?username=15pp&style=plastic&color=green)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=15pp" alt="15pp" /></a> </p>
 
